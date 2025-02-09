@@ -1,0 +1,6 @@
+@AvtoSalon.Server_HostAddress = http://localhost:5049
+
+GET {{AvtoSalon.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
