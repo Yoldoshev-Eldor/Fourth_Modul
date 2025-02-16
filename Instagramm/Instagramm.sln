@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instagramm.Server", "Instagramm.Server\Instagramm.Server.csproj", "{1049C0CD-3AA4-4C8E-B8E0-8869B1216E20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instagramm.DataAccess", "Instagramm.DataAccess\Instagramm.DataAccess.csproj", "{C8F3F969-3F13-4B22-8A91-CF12F6BE22A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instagramm.Repostory", "Instagramm.Repostory\Instagramm.Repostory.csproj", "{255C8A44-410C-465F-94CE-CCB9DDEF9278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instagramm.Service", "Instagramm.Service\Instagramm.Service.csproj", "{49ED751A-32FA-413A-8E01-6202B33225CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1049C0CD-3AA4-4C8E-B8E0-8869B1216E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1049C0CD-3AA4-4C8E-B8E0-8869B1216E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1049C0CD-3AA4-4C8E-B8E0-8869B1216E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1049C0CD-3AA4-4C8E-B8E0-8869B1216E20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8F3F969-3F13-4B22-8A91-CF12F6BE22A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8F3F969-3F13-4B22-8A91-CF12F6BE22A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8F3F969-3F13-4B22-8A91-CF12F6BE22A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8F3F969-3F13-4B22-8A91-CF12F6BE22A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{255C8A44-410C-465F-94CE-CCB9DDEF9278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{255C8A44-410C-465F-94CE-CCB9DDEF9278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{255C8A44-410C-465F-94CE-CCB9DDEF9278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{255C8A44-410C-465F-94CE-CCB9DDEF9278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49ED751A-32FA-413A-8E01-6202B33225CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49ED751A-32FA-413A-8E01-6202B33225CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49ED751A-32FA-413A-8E01-6202B33225CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49ED751A-32FA-413A-8E01-6202B33225CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
